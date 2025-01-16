@@ -1,0 +1,34 @@
+[
+    {
+        "type": "frontend",
+        "technologies": [
+            
+            {
+                "title": "HTML5",
+                "image": "devicon-html5-plain"
+            },
+            {
+                "title": "CSS3",
+                "image": "devicon-css3-plain"
+            },
+            {
+                "title": "Javascript",
+                "image": "devicon-javascript-plain"
+            }
+           
+        ]
+    },
+    {
+        "type": "backend",
+        "technologies": [
+            {
+                "title": "PHP",
+                "image": "devicon-php-plain"
+            },
+            {
+                "title": "Laravel",
+                "image": "devicon-laravel-plain"
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "Image": "./assets/images/jwe1.png",
+        "Title": "Jewellery Store",
+        "Description": "The Jewellery Store project is focusing on showcasing various product brands along with detailed information and photos. Users can browse through a wide selection of product brands, each accompanied by comprehensive information and high-quality photos. The project aims to provide users with a visually appealing and informative platform for exploring different product options. Through this assignment, I aim to enhance my skills in web development and user interface design. Visitors are welcome to explore the collection of product brands or contact me for further details.",
+        "Github": "https://github.com/harsh1064/jewellery-store",
+        "Tags": ["HTML5", "CSS3", "Javascript", "PHP","MYSQL"]
+    },
+    {
+        "Image": "./assets/images/timesaver1.png",
+        "Title": "Timesaver On Demand Service",
+        "Description": "Our timesaver System simplifies item and category management, offering easy browsing and navigation. Users can add, edit, and delete items and categories seamlessly, ensuring accurate records. With a search feature for quick access, the system boasts a user-friendly interface and advanced functionality. Developed with modern technologies, it highlights efficient inventory management's importance in business optimization. Explore more or contact us for details. We aim to help in providing optimal solution to all your household troubles with more efficiently Like Carpenter, Plumber, Electrician etc.", 
+        "Sidenote": "",
+        "Github": "https://github.com/harsh1064/timesaver",
+        "Tags": ["HTML5", "CSS3", "Javascript", "PHP","MYSQL"]
+    },
+    {
+        "Image": "./assets/images/ecom1.png",
+        "Title": "E-commerce Website",
+        "Description": "The ecommerce website serves as my practice assignment, focusing on product management with features for adding, editing, and deleting product. Each product includes essential details such as a title, description and price. The app provides a user-friendly interface for seamless product management, emphasizing the importance of effective product organization in boosting productivity.  ",
+        "Sidenote": "",
+        "Github": "https://github.com/harsh1064/ecommerce",
+        "Tags": ["HTML5", "CSS3","Javascript","PHP", "MYSQL","Laravel"]
+    }
+]
